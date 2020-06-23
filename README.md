@@ -1,3 +1,7 @@
+---
+typora-root-url: Images
+---
+
 # Weather-Model
 
 ## Part I - WeatherPy
@@ -22,7 +26,7 @@ In addition to that I ran linear regression on each relationship, only this time
 
 First, we created a heat map that displays the humidity for every city from the Part I. 
 
-![](C:\Users\zunic\Butler\DataBootCamp\github\Weather-Model\Images\heatmap.png)
+![heatmap](/heatmap.png)
 
 Next, we narrowed down our dataframe to ideal weather conditions:
 
