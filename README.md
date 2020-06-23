@@ -1,7 +1,3 @@
----
-typora-root-url: Images
----
-
 # Weather-Model
 
 ## Part I - WeatherPy
@@ -26,7 +22,7 @@ In addition to that I ran linear regression on each relationship, only this time
 
 First, we created a heat map that displays the humidity for every city from the Part I. 
 
-![](/heatmap.png)
+![](Images/heatmap.png)
 
 Next, we narrowed down our dataframe to ideal weather conditions:
 
@@ -39,7 +35,7 @@ Next, we narrowed down our dataframe to ideal weather conditions:
 
 The resulted list contained 11 cities. Using Google Places API we found the first hotel for each city located within 5000 meters. At the end, we plotted the hotels on top of the humidity heatmap with each pin containing the **Hotel Name**, **City**, and **Country**.
 
-![hotel_map](/hotel_map.png)
+![](Images/hotel_map.png)
 
 
 
